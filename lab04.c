@@ -201,6 +201,8 @@ void* thread_func(void* arg) { // thread function that takes multiple parameters
 }
 
 
+
+
 int main(int argc, char *argv[]){
     int n,p,s,t;
     time_t t1, t2;
